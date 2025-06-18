@@ -1,2 +1,1 @@
-# federated-xai-fraud-detection
-An end-to-end credit card fraud detection system leveraging Federated Learning for privacy-preserving training and Explainable AI for transparent predictions
+This project develops an advanced credit card fraud detection system designed for the modern financial landscape. It leverages Federated Learning to enable collaborative model training across multiple financial institutions without compromising sensitive customer data, ensuring privacy and regulatory compliance. Furthermore, it integrates Explainable AI (XAI) techniques to provide transparent, human-understandable justifications for fraud predictions, fostering trust and accountability. This end-to-end solution demonstrates robust MLOps practices for production readiness.
